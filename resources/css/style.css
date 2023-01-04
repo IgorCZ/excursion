@@ -1,0 +1,31 @@
+body {
+    background-color: #000;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+.download {
+    color: #7FFFD4;
+    font-size: 16px;
+}
+
+.excursion {
+    text-align: right;
+}
